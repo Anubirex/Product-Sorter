@@ -48,3 +48,6 @@
 .product-card:hover {
     background-color: bisque;
 }
+.hide {
+    display: none;
+}
